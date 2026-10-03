@@ -43,3 +43,5 @@ The app itself is one file, `index.html`: HTML, CSS and plain JavaScript, with n
 ## License
 
 Public domain, under [The Unlicense](LICENSE). Copy it, change it, sell it, or ignore it. No credit needed.
+
+
